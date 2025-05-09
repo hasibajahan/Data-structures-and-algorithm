@@ -16,7 +16,7 @@ public class DynamicArray {
         this.array=new Object[capacity];
     }
     //The methods
-    //1) add method (adds element at the end of the array)
+    //1) Add method (adds element at the end of the array)
     public void add(Object data){
         if(size>=capacity){
             grow();//if size is more than the actual capacity increase the capacity

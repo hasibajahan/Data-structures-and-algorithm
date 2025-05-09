@@ -25,7 +25,7 @@ public class Demo1 {
         System.out.println(dynamicArray);
 
         // Delete the element "X" from the array
-        dynamicArray.delete("X");
+        dynamicArray.delete("H");
 
         // Print the array after deletion
         // No need to call toString() explicitly, it's invoked automatically

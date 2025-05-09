@@ -1,4 +1,4 @@
-# Ignore IDE configs
+# Ignore IDE configurations
 .idea/
 *.iml
 
