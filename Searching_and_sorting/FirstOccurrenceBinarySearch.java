@@ -20,6 +20,13 @@
 
 // 8. Return index.
 
+//***Time complexity: O(log N)
+//Binary Search works by halving the search space each time.
+//So for an array of size N, the number of steps to find the element is approximately log(N).
+
+//***Space complexity: O(1)
+//We’re not using any extra data structures (like arrays, lists, hashmaps).
+
 import java.util.*;
 
 public class FirstOccurrenceBinarySearch{
